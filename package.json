@@ -1,0 +1,27 @@
+{
+  "name": "vue-weui",
+  "version": "0.1.0",
+  "description": "UI components built with WeUI and Vue",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcoding/vue-weui.git"
+  },
+  "keywords": [
+    "weui",
+    "vue"
+  ],
+  "author": "zcoding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zcoding/vue-weui/issues"
+  },
+  "homepage": "https://github.com/zcoding/vue-weui#readme",
+  "devDependencies": {
+    "vue": "^1.0.18",
+    "webpack": "^1.12.14"
+  }
+}
